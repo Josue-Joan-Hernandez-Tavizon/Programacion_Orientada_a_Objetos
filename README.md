@@ -1,2 +1,4 @@
 # Programacion_Orientada_a_Objetos
-Hernández Tavizón Josué Joán 4-A Clasica Programacion Orientada a Objetos
+Alumno: Hernández Tavizón Josué Joán 
+Grupo: 4-A Clasica 
+Materia: Programacion Orientada a Objetos
